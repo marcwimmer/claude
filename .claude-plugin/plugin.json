@@ -1,0 +1,13 @@
+{
+  "name": "marc-defaults",
+  "version": "0.1.0",
+  "description": "Marc Wimmer's personal Claude Code defaults — ships the global CLAUDE.md and a setup command to deploy it to ~/.claude/CLAUDE.md.",
+  "author": {
+    "name": "Marc Wimmer",
+    "email": "marc@zebroo.de"
+  },
+  "homepage": "https://github.com/marcwimmer/claude",
+  "repository": "https://github.com/marcwimmer/claude",
+  "license": "MIT",
+  "keywords": ["defaults", "claude-md", "zebroo", "odoo", "personal"]
+}

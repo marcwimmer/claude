@@ -1,0 +1,18 @@
+{
+  "name": "marc-defaults",
+  "owner": {
+    "name": "Marc Wimmer",
+    "email": "marc@zebroo.de"
+  },
+  "metadata": {
+    "description": "Marc Wimmer's personal Claude Code plugins (global CLAUDE.md defaults + commands)."
+  },
+  "plugins": [
+    {
+      "name": "marc-defaults",
+      "source": "./",
+      "description": "Global CLAUDE.md defaults and /marc-defaults:setup command.",
+      "version": "0.1.0"
+    }
+  ]
+}
